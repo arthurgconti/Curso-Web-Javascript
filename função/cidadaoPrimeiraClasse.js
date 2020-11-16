@@ -23,8 +23,10 @@ console.log(obj.falar())
 function run(fun){
     fun()
 }
-
 run(function(){console.log('executando....')})
+
+
+
 
 //uma função pode retornar/conter uma função
 
